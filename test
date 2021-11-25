@@ -1,0 +1,12 @@
+<div id="hero" class="hero route bg-image" style="background-image: url(assets/img/background.jpeg)">
+    <div class="overlay-itro"></div>
+    <div class="hero-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <!--h1 class="hero-title mb-4">Geek<span class="geek2">2</span><span class="geek3">3</span><span class="geek7">7</span></h1-->
+          <!--p class="hero-subtitle"><span class="typed" data-typed-items="Wir helfen Ihnen bei einer erfolreichen Bewerbung,  Erstellung eines professionellen Lebenslaufs, und perfekten Motivationsschreibens, Entwicklung und Hosting eines Online-Lebenslaufs, und Portfolios, Realisierung von kreativen Logos und Flyers"></span></p-->
+          <!--p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#services" role="button">Mehr</a></p--> 
+        </div>
+      </div>
+    </div >
+  </div><!-- End Hero Section -->
